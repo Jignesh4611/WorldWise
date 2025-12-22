@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -34,7 +10,7 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
     },
     {
       "cityName": "Nijar",
@@ -43,10 +19,70 @@
       "date": "2023-04-03T07:47:59.202Z",
       "notes": "",
       "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
+        "lat": 36.967508314568164,
+        "lng": -2.13128394200588
       },
-      "id": 98443198
+      "id": "98443198"
+    },
+    {
+      "id": "034b",
+      "cityName": "Ta’if",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-12-22T10:46:46.039Z",
+      "notes": "",
+      "position": {
+        "lat": "22.816694126899844",
+        "lng": "40.97900390625001"
+      }
+    },
+    {
+      "id": "ed82",
+      "cityName": "Kadi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-12-22T10:46:46.039Z",
+      "notes": "",
+      "position": {
+        "lat": "23.120153621695614",
+        "lng": "72.33398437500001"
+      }
+    },
+    {
+      "id": "b904",
+      "cityName": "Dasada",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-12-22T11:19:24.619Z",
+      "notes": "",
+      "position": {
+        "lat": "22.998851594142923",
+        "lng": "71.71875000000001"
+      }
+    },
+    {
+      "id": "16ed",
+      "cityName": "Bhachau",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-12-22T11:19:51.472Z",
+      "notes": "ccvcv",
+      "position": {
+        "lat": "24.56710835257599",
+        "lng": "71.21337890625001"
+      }
+    },
+    {
+      "id": "35b6",
+      "cityName": "Sindari",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-12-22T11:27:37.461Z",
+      "notes": "",
+      "position": {
+        "lat": "25.62171595984575",
+        "lng": "71.85058593750001"
+      }
     }
   ]
 }

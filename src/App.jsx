@@ -1,10 +1,10 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom"
-import Product from "./Pages/Product"
-import Login from "./Pages/Login"
-import Pricing from "./Pages/Pricing";
+import Product from "./pages/Product"
+import Login from "./pages/Login"
+import Pricing from "./pages/Pricing";
 import HomePage from "./pages/HomePage";
 import AppLayout from "./pages/AppLayout";
-import PageNotFound from "./Pages/PageNotFound";
+import PageNotFound from "./pages/PageNotFound";
 import CityList from "./components/CityList";
 import City from "./components/City";
 import CountriesList from "./components/CountriesList";

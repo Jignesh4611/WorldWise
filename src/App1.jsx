@@ -2,7 +2,7 @@ import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom"
 import Product from "./pages/Product"
 import Login from "./pages/Login"
 import Pricing from "./pages/Pricing";
-import HomePage from "./pages/homepage";
+import Homepage from "./pages/Homepage_abc";
 import AppLayout from "./pages/AppLayout";
 import PageNotFound from "./pages/PageNotFound";
 import CityList from "./components/CityList";
@@ -22,7 +22,7 @@ function App() {
         <CitiesProvider>
           <BrowserRouter>
             <Routes>
-              <Route index element={<HomePage />} />
+              <Route index element={<Homepage />} />
               <Route path="/product" element={<Product />} />
               <Route path="/pricing" element={<Pricing />} />
               <Route path="/login" element={<Login />} />
